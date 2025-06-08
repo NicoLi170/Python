@@ -1,0 +1,11 @@
+Scenario:
+
+
+You are managing a small store and want to track inventory.
+You'll work with a JSON file that holds your product data.
+The goal is to build a script that:
+
+1.Loads the product data from a JSON file.
+2.Lets the user search for a product by name.
+3.Allows adding or updating products.
+4.Saves changes back to the file.
